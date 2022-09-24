@@ -1,0 +1,20 @@
+1- Coloque etiqueta keywords en los html:
+index: sensuality, indumentaria femenina, arneses, collares, productos sexys,ofertas
+produtos: sensuality, indumentaria femenina, arneses, collares, cadenas, productos
+información: información, fyq, preguntas, frecuentes, talles, como comprar, como cuidar tu ropa, tiempos de entrega
+crear cuenta: crear, cuenta, registrate
+galeria: fotos, galeria, productos
+
+2- Coloque etiqueta Description en los html:
+index: SENSUALITY es un emprendimiento de indumentaria femenina de diseño
+produtos: Estos son algunos de nuestros produto especialmente diseñados para la mujer
+información: Preguntas frecuentes de los clientes de Sensuality
+crear cuenta: Crea tu cuenta para poder comprar mejor y recibir novedades
+galeria: Algunas fotos de nuestros productos y clientas
+
+3- Agregue titulos a cada htmal
+index: Sensuality, inicio
+produtos: Sensuality, productos
+información: Sensuality, información
+crear cuenta: Sensuality, registrate
+galeria: Sensuality, galeria de fotos

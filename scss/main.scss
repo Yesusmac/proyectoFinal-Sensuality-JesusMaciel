@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial, helvetica, sans-serif;
+    text-decoration: none;
+    transition: all 0.4s cubic-bezier(0,1.57,.67,1.18);
+}
+
+@import './secciones/contenido';
+@import './secciones/footer';
+@import './media-querys/mobile-first';
